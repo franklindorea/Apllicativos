@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Sobre">
+            <menu>
+                <item
+                    android:id="@+id/nav_minhas_doacoes"
+                    android:icon="@drawable/ic_menu_camera"
+                    android:title="Minhas Doações" />
+                <item
+                    android:id="@+id/nav_ja_doei"
+                    android:icon="@drawable/ic_menu_gallery"
+                    android:title="O Que Já Doei" />
+                <item
+                    android:id="@+id/nav_nivel_doador"
+                    android:icon="@drawable/ic_menu_slideshow"
+                    android:title="Nível De Doador" />
+                <item
+                    android:id="@+id/nav_fazer_doacao"
+                    android:icon="@drawable/ic_menu_manage"
+                    android:title="Fazer Uma Doação" />
+            </menu>
+        </item>
+    </group>
+
+    <group></group>
+        <item android:title="Communicate">
+            <menu>
+                <item
+                    android:id="@+id/nav_chat"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="chat" />
+                <item
+                    android:id="@+id/nav_depoimentos"
+                    android:icon="@drawable/ic_menu_send"
+                    android:title="Depoimentos" />
+                <item
+                    android:id="@+id/nav_perfil"
+                    android:icon="@drawable/ic_menu_gallery"
+                    android:title="Perfil" />
+                <item
+                    android:id="@+id/nav_dicas_seguranca"
+                    android:icon="@drawable/ic_menu_camera"
+                    android:title="Dicas De Segurança" />
+                <item
+                    android:id="@+id/nav_erros_app"
+                    android:icon="@drawable/ic_menu_camera"
+                    android:title="Relatar Erros" />
+                <item
+                    android:id="@+id/nav_termos"
+                    android:icon="@drawable/ic_menu_camera"
+                    android:title="Termos De Uso" />
+                <item
+                    android:id="@+id/nav_compartlhar"
+                    android:icon="@drawable/ic_menu_share"
+                    android:title="Compartilhar" />
+                <item
+                    android:id="@+id/nav_ajuda"
+                    android:icon="@drawable/ic_menu_camera"
+                    android:title="Ajuda" />
+            </menu>
+        </item>
+    </menu>

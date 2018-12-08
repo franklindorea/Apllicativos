@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DoaAcaoBETA2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="sobre_minhas_doacoes">Sobre Minhas Doações</string>
+    <string name="minhas_doacoes">Minhas Doações</string>
+    <string name="o_que_ja_doei">O Que Já Doei</string>
+    <string name="nivel_de_doador">Nível De Doador</string>
+    <string name="fazer_uma_doacao">Fazer Uma Doação</string>
+    <string name="comunicacoes">Comunicações</string>
+    <string name="chat">Chat</string>
+    <string name="depoimentos">Depoimentos</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="meu_perfil">Meu Perfil</string>
+    <string name="dicas_de_seguranca">Dicas De Segurança</string>
+    <string name="informar_erros_do_app">Informar Erros do App</string>
+    <string name="termos_de_uso">Termos de Uso</string>
+    <string name="compartilhar_app">Compartilhar App</string>
+    <string name="ajuda">Ajuda</string>
+</resources>
